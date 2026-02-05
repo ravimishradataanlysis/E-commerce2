@@ -1,0 +1,29 @@
+this # Retail Sales & Inventory Analysis
+
+This is a beginner-level data analysis project.
+
+## Overview
+This project analyzes retail sales and inventory data to understand
+vendor performance and inventory issues using SQL, Python, and Power BI.
+
+## Tools Used
+- SQL
+- Python
+- Power BI
+
+## Business Problem
+Retail companies face problems like:
+- Low sales from some vendors
+- Excess inventory
+- Low profit margin
+
+## Key Insights
+- Some vendors generate higher profit than others
+- Bulk purchasing helps reduce cost
+- Slow-moving products increase inventory cost
+
+## Dashboard
+Power BI dashboard shows sales, profit, and inventory trends.
+
+## Author
+Ravi Mishra
